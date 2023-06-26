@@ -1,0 +1,1 @@
+from .PointNet2Model import PointNet2_model
